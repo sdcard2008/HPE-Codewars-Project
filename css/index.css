@@ -1,0 +1,85 @@
+div.img {
+
+    
+    text-align: center;
+}
+ img {
+    border-width: 20px;
+    
+    border-radius: 5px;
+
+    border-style: groove;
+
+    border-color: blue;
+}
+
+figcaption {
+    font-size: 20px;
+
+    font-family: "8bit";
+}
+
+.head {
+    font-family: "bitcube";
+
+    color: blue;
+
+    font-size:64px;
+    text-align: center;
+}
+
+.sub-head {
+    font-family:"bit_chips";
+
+}
+
+button {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    font-size:32px;
+
+    background-color: blueviolet;
+
+
+
+
+}
+#ip-data, #ip {
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+
+    font-size:32px;
+}
+#practical {
+    text-align: center;
+}
+
+.why-p {
+    font-family: "merchant";
+
+    font-size: 32px;
+}
+.info {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    color:rgb(82, 82, 10);
+    font-size:22px;
+}
+@font-face {
+    font-family: "8bit";
+    src : url("fonts/8bit.ttf");
+}
+
+@font-face {
+    font-family: "bitcube";
+    src: url("fonts/bitcube.ttf");
+}
+
+@font-face {
+    font-family: "bit_chips";
+    src: url("fonts/bit_chips.ttf");
+}
+@font-face {
+    font-family: "merchant";
+    src: url("fonts/mrchant.ttf");
+}
